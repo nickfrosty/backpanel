@@ -1,0 +1,19 @@
+{
+	"name": "backpanel",
+	"version": "0.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nickfrosty/backpanel.git"
+	},
+	"author": "Nick Frostbutter",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nickfrosty/backpanel/issues"
+	},
+	"homepage": "https://github.com/nickfrosty/backpanel#readme"
+}
